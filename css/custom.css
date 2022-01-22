@@ -1,0 +1,230 @@
+/* --------------- Color Style ------------------ */
+.bg-1-color-dark {
+background-color: #353b4a;
+}
+.dark-page #preloader {
+background-color: #353b4a;
+}
+.dark-page {
+background-color: #353b4a;
+}
+.dark-page #preloader div {
+border-color: #f3f3f3!important;
+}
+.dark-page #preloader div div {
+background-color: #f3f3f3!important;
+}
+.bg-1-color-light {
+background-color: #ffffff;
+}
+.light-page #preloader {
+background-color: #ffffff;
+}
+.light-page {
+background-color: #ffffff;
+}
+.light-page #preloader div {
+border-color: #888888!important;
+}
+.light-page #preloader div div {
+background-color: #888888!important;
+}
+.dark  {
+color: #ffffff;
+}
+.dark mark {
+color: #000000;
+}
+.dark mark {
+background-color: #ffff60;
+}
+.dark h1 {
+color: #ffffff;
+}
+.dark h2 {
+color: #ffffff;
+}
+.dark h3 {
+color: #ffffff;
+}
+.dark h4 {
+color: #ffffff;
+}
+.dark.sep-b:after {
+border-color: #777777;
+}
+.dark.sep-full-b:after {
+border-color: #777777;
+}
+.dark hr {
+border-color: #777777;
+}
+.dark .border-box {
+border-color: #777777;
+}
+.dark a:not(.btn):not(.gallery-box):not(.goodshare) {
+color: #ffffff;
+}
+.dark a.btn-link {
+color: #ffffff;
+}
+.dark a:not(.btn):not(.gallery-box):not(.goodshare):hover {
+color: #f4f4f4;
+}
+.dark .btn-primary {
+background-color: #07bcf7;
+border-color: #07bcf7;
+}
+.dark .btn-primary:hover {
+background-color: #039dd0;
+border-color: #039dd0;
+}
+.dark .btn-default {
+color: #ffffff;
+border-color: #ffffff;
+}
+.dark .btn-default:hover {
+color: #eeeeee;
+border-color: #eeeeee;
+}
+.dark i.icon-color {
+color: #ffffff;
+}
+.dark .owl-next {
+border-color: #ffffff;
+}
+.dark .owl-prev {
+border-color: #ffffff;
+}
+.dark .owl-dot {
+border-color: #ffffff;
+}
+.dark .gallery-box {
+background: #353b4a;
+}
+.dark .gallery-box {
+color: #ffffff;
+}
+.light  {
+color: #444444;
+}
+.light mark {
+color: #000000;
+}
+.light mark {
+background-color: #ffff60;
+}
+.light h1 {
+color: #222222;
+}
+.light h2 {
+color: #444444;
+}
+.light h3 {
+color: #444444;
+}
+.light h4 {
+color: #555555;
+}
+.light.sep-b:after {
+border-color: #eeeeee;
+}
+.light.sep-full-b:after {
+border-color: #eeeeee;
+}
+.light hr {
+border-color: #eeeeee;
+}
+.light .border-box {
+border-color: #eeeeee;
+}
+.light a:not(.btn):not(.gallery-box):not(.goodshare) {
+color: #222222;
+}
+.light a.btn-link {
+color: #222222;
+}
+.light a:not(.btn):not(.gallery-box):not(.goodshare):hover {
+color: #00a7ff;
+}
+.light .btn-primary {
+background-color: #07bcf7;
+border-color: #07bcf7;
+}
+.light .btn-primary:hover {
+background-color: #039dd0;
+border-color: #039dd0;
+}
+.light .btn-default {
+color: #555555;
+border-color: #555555;
+}
+.light .btn-default:hover {
+color: #222222;
+border-color: #222222;
+}
+.light i.icon-color {
+color: #aaaaaa;
+}
+.light .owl-next {
+border-color: #444444;
+}
+.light .owl-prev {
+border-color: #444444;
+}
+.light .owl-dot {
+border-color: #444444;
+}
+.light .gallery-box {
+background: #ffffff;
+}
+.light .gallery-box {
+color: #222222;
+}
+
+/* ------------------ Typography --------------------- */
+body {
+	font-family: 'Open Sans';
+	font-size: 15px;
+	font-style: inherit;
+	font-weight: 400;
+	text-transform: inherit;
+}
+h1 {
+	font-family: 'Roboto';
+	font-size: 44px;
+	font-style: inherit;
+	font-weight: 100;
+	text-transform: inherit;
+}
+h2 {
+	font-family: 'Roboto';
+	font-size: 36px;
+	font-style: inherit;
+	font-weight: 300;
+	text-transform: inherit;
+}
+h3 {
+	font-family: 'Nunito Sans';
+	font-size: 26px;
+	font-style: inherit;
+	font-weight: 300;
+	text-transform: inherit;
+}
+h4 {
+	font-family: 'Nunito Sans';
+	font-size: 20px;
+	font-style: inherit;
+	font-weight: 300;
+	text-transform: inherit;
+}
+#header-form-slogan .col-md-5{
+
+}
+#header-form-slogan .col-md-5 .form-container.bg-1-color-light.light{
+background-color: rgba(255,255,255,.9);
+}
+
+#header-form-slogan .row.flex-md-vmiddle{
+height: 550px;
+}

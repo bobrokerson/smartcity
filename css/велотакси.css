@@ -1,0 +1,76 @@
+#nav-center-menu-logo-btn .nav-bg {
+	background: #00c0ff;
+	opacity: 0.69;
+}#header-form-slogan {
+	background: #222222;
+}
+
+#header-form-slogan .bg {
+	opacity: 0.44;
+}
+#header-form-slogan-error .bg {
+	background-image: url(../images/bg-modal-error.jpg);
+	opacity:0.1;
+}
+#header-form-slogan-success .bg {
+	background-image: url(../images/bg-modal-success.jpg);
+	opacity:0.25;
+}#desc-text-img-2 .bg {
+	background-image: url('../images/bg-wall-1.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: bottom center;
+	opacity: 0.35;
+}#video-icon-text--0 .bg {
+	background-image: url('../images/14249815_1410791525628442_545660990152356180_o.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.15;
+}#desc-center-slogan-img-text .bg {
+	background-image: url('../images/abstract-bg-6.png');
+	background-size: contain;
+	-webkit-background-size: contain;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 1;
+}
+#clients-carousel--0 .bg {
+	background-image: url('../images/stock3.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.12;
+}
+
+#price-3col-2 .bg {
+	background-image: url('../images/ggg.png');
+	background-size: contain;
+	-webkit-background-size: contain;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.17;
+}
+
+
+
+
+#gallery-fluid-list-4col-2row .bg {
+	background-image: url('../images/bg-modal-error.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: top center;
+	opacity: 0.05;
+}#footer-text-logo-btn {
+    background: #768190;
+}
