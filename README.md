@@ -14,6 +14,7 @@
   - [Features](#features)
   - [Technologies](#technologies)
   - [Quick Start](#quick-start)
+  - [Email workflow](#email-workflow)
   - [License](#license)
 
 ## Overview
@@ -42,7 +43,7 @@ Follow these steps to set up and run the SmartCity landing page locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourname/smartcity.git
+   git clone https://github.com/bobrokerson/smartcity.git
    cd smartcity
 
 2. **Build the Docker Image**:
@@ -55,6 +56,19 @@ Follow these steps to set up and run the SmartCity landing page locally:
 
 5. **Access the Application**: 
    open your browser and navigate to http://localhost:3333.
+
+
+## Email workflow
+The form on the website sends a JSON payload containing the request information to the backend API hosted on Fozzy:
+
+{
+  "customerName": "Ivan Ivanov",
+  "customerEmail": "ivan.ivanov@gmail.com",
+  "tourType": "City Center Tour",
+  "message": "I would like a guided tour",
+  "source": "smartcity_landing"
+}
+
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.

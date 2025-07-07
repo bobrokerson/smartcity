@@ -5,6 +5,6 @@ services:
     build: .
     ports:
       - "3333:80"
-    volumes:
-      - ./frontend:/usr/share/nginx/html:ro
+      
     restart: unless-stopped
+    container_name: smartcity-web
