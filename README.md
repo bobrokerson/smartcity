@@ -60,7 +60,7 @@ Follow these steps to set up and run the SmartCity landing page locally:
 
 ## Email workflow
 The form on the website sends a JSON payload containing the request information to the backend API hosted on Fozzy:
-
+```json
 {
   "customerName": "Ivan Ivanov",
   "customerEmail": "ivan.ivanov@gmail.com",
