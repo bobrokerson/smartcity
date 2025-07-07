@@ -35,6 +35,7 @@ SmartCity is a lightweight, responsive landing page tailored for promoting touri
 - **Containerization**: Docker
 - **Analytics**: Jupyter, pandas (optional integration)
 - **Deployment**: Nginx (via Docker)
+- **Payment integration**: Supports Visa and Mastercard payments via Yandex.Money. Optional integration through Yandex.Money API.
 
 ## Quick Start
 
