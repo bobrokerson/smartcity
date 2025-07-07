@@ -42,12 +42,14 @@ Follow these steps to set up and run the SmartCity landing page locally:
    cd smartcity
 
 2. **Build the Docker Image**:
+   ```bash
    docker build -t smartcity .
 
-3. **Run the Docker Container**:
+4. **Run the Docker Container**:
+   ```bash
    docker run -p 3333:80 smartcity
 
-4. **Access the Application**: 
+5. **Access the Application**: 
    open your browser and navigate to http://localhost:3333.
 
 ## License
