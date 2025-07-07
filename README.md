@@ -18,7 +18,7 @@
 
 ## Overview
 
-SmartCity is a lightweight, responsive landing page tailored for promoting tourist routes and capturing user inquiries through an intuitive form. It leverages EmailJS for email submissions, is optimized for analytics with tools like Jupyter and pandas, and is packaged as a Docker image for effortless deployment across environments.
+SmartCity is a lightweight, responsive landing page tailored for promoting tourist routes and capturing user inquiries through an intuitive form. It leverages EmailJS for email submissions, is optimized for analytics with tools like Jupyter and Pandas, and is packaged as a Docker image for effortless deployment across environments.
 
 ## Features
 
