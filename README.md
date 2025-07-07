@@ -1,6 +1,6 @@
 # SmartCity Landing Page
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourname/smartcity)
+![GitHub repo size](https://img.shields.io/github/repo-size/bobrokerson/smartcity)
 ![Docker Image](https://img.shields.io/badge/Docker-Enabled-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
