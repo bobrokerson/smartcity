@@ -4,11 +4,11 @@
 ![Docker Image](https://img.shields.io/badge/Docker-Enabled-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**SmartCity** is a modern landing page designed to showcase tourist routes and collect user requests (advertisements and tour bookings) via email. Built with a focus on simplicity, scalability, and data-driven development, it supports seamless analytics integration and easy deployment using Docker.
+**SmartCity** is a small service designed to showcase tourist routes and collect user requests (advertisements and tour bookings). Built with a focus on simplicity, scalability, and data-driven development, it supports seamless analytics integration and easy deployment using Docker.
 
 ## Table of Contents
 
-- [SmartCity Landing Page](#smartcity-landing-page)
+- [SmartCity](#smartcity)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Features](#features)
