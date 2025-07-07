@@ -1,4 +1,4 @@
-# SmartCity Landing Page
+# SmartCity
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/bobrokerson/smartcity)
 ![Docker Image](https://img.shields.io/badge/Docker-Enabled-blue)
