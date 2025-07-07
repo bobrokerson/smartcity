@@ -14,7 +14,6 @@
   - [Features](#features)
   - [Technologies](#technologies)
   - [Quick Start](#quick-start)
-  - [Email workflow](#email-workflow)
   - [License](#license)
 
 ## Overview
@@ -68,6 +67,7 @@ The form on the website sends a JSON payload containing the request information 
    "message": "I would like a guided tour",
    "source": "smartcity_landing"
    }
+   ```
 
 
 ## License
