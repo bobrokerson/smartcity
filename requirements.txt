@@ -1,2 +1,2 @@
 #dependencies for smart city project
-#end version 
+#end version #1.0.0
