@@ -5,7 +5,6 @@ pipeline {
         stage('Clone and Check') {
             steps {
                 echo "Cloning repo..."
-                // Попытка клонирования репозитория
                 script {
                     try {
                         checkout scm
@@ -21,10 +20,10 @@ pipeline {
 
     post {
         success {
-            echo "✅ Pipeline completed successfully!"
+            echo "Pipeline completed successfully!"
         }
         failure {
-            echo "❌ Pipeline failed."
+            echo "Pipeline failed."
         }
     }
 }
